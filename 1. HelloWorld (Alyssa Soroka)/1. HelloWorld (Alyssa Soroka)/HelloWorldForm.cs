@@ -14,7 +14,10 @@ namespace HelloWorld
         public frmHelloWorld()
         {
             InitializeComponent();
+
+            lblHelloWorld.Text = Convert.ToString("Hello Laura");
         }
+
 
         private void frmHelloWorld_Load(object sender, EventArgs e)
         {
@@ -25,5 +28,7 @@ namespace HelloWorld
         {
             this.Close();
         }
+
+
     }
 }
