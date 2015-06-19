@@ -1,0 +1,7 @@
+K:\Semester 2 - Winter 2015\ICS3U (Gr. 11 Computer Programming)\Soroka, Alyssa (202948)\Introduction\1. HelloWorld (Alyssa Soroka)\1. HelloWorld (Alyssa Soroka)\bin\Debug\1. HelloWorld (Alyssa Soroka).exe
+K:\Semester 2 - Winter 2015\ICS3U (Gr. 11 Computer Programming)\Soroka, Alyssa (202948)\Introduction\1. HelloWorld (Alyssa Soroka)\1. HelloWorld (Alyssa Soroka)\bin\Debug\1. HelloWorld (Alyssa Soroka).pdb
+K:\Semester 2 - Winter 2015\ICS3U (Gr. 11 Computer Programming)\Soroka, Alyssa (202948)\Introduction\1. HelloWorld (Alyssa Soroka)\1. HelloWorld (Alyssa Soroka)\obj\x86\Debug\HelloWorld.frmHelloWorld.resources
+K:\Semester 2 - Winter 2015\ICS3U (Gr. 11 Computer Programming)\Soroka, Alyssa (202948)\Introduction\1. HelloWorld (Alyssa Soroka)\1. HelloWorld (Alyssa Soroka)\obj\x86\Debug\HelloWorld.Properties.Resources.resources
+K:\Semester 2 - Winter 2015\ICS3U (Gr. 11 Computer Programming)\Soroka, Alyssa (202948)\Introduction\1. HelloWorld (Alyssa Soroka)\1. HelloWorld (Alyssa Soroka)\obj\x86\Debug\1. HelloWorld (Alyssa Soroka).csproj.GenerateResource.Cache
+K:\Semester 2 - Winter 2015\ICS3U (Gr. 11 Computer Programming)\Soroka, Alyssa (202948)\Introduction\1. HelloWorld (Alyssa Soroka)\1. HelloWorld (Alyssa Soroka)\obj\x86\Debug\1. HelloWorld (Alyssa Soroka).exe
+K:\Semester 2 - Winter 2015\ICS3U (Gr. 11 Computer Programming)\Soroka, Alyssa (202948)\Introduction\1. HelloWorld (Alyssa Soroka)\1. HelloWorld (Alyssa Soroka)\obj\x86\Debug\1. HelloWorld (Alyssa Soroka).pdb
