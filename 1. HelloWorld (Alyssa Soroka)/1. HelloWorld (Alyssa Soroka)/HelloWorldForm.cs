@@ -16,6 +16,15 @@ namespace HelloWorld
             InitializeComponent();
 
             lblHelloWorld.Text = Convert.ToString("Hello Laura");
+            
+        }
+
+        private void lblAuthor_Click(object sender, EventArgs e)
+        {
+            foreach (Control aControlObject in this.Controls)
+            {
+                aControlObject.BackColor = Color.Fuchsia;
+            }
         }
 
     }
