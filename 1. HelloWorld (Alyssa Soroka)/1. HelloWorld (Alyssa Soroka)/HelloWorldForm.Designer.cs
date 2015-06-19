@@ -52,6 +52,7 @@
             this.lblAuthor.Size = new System.Drawing.Size(232, 25);
             this.lblAuthor.TabIndex = 1;
             this.lblAuthor.Text = "By: Alyssa Soroka";
+            this.lblAuthor.Click += new System.EventHandler(this.lblAuthor_Click);
             // 
             // label1
             // 
@@ -73,7 +74,6 @@
             this.Controls.Add(this.lblHelloWorld);
             this.Name = "frmHelloWorld";
             this.Text = "Hello World! By Alyssa Soroka";
-            this.Load += new System.EventHandler(this.frmHelloWorld_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
