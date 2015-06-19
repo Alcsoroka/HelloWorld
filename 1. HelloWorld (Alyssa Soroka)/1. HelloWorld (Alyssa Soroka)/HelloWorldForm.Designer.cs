@@ -61,6 +61,7 @@
             this.Controls.Add(this.lblHelloWorld);
             this.Name = "frmHelloWorld";
             this.Text = "Hello World! By Alyssa Soroka";
+            this.Load += new System.EventHandler(this.frmHelloWorld_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

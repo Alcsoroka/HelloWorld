@@ -14,6 +14,9 @@ namespace HelloWorld
         public frmHelloWorld()
         {
             InitializeComponent();
+
+            lblHelloWorld.Text = Convert.ToString("Hello Laura");
         }
+
     }
 }
