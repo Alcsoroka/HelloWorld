@@ -5,3 +5,10 @@ K:\Semester 2 - Winter 2015\ICS3U (Gr. 11 Computer Programming)\Soroka, Alyssa (
 K:\Semester 2 - Winter 2015\ICS3U (Gr. 11 Computer Programming)\Soroka, Alyssa (202948)\Introduction\1. HelloWorld (Alyssa Soroka)\1. HelloWorld (Alyssa Soroka)\obj\x86\Debug\1. HelloWorld (Alyssa Soroka).csproj.GenerateResource.Cache
 K:\Semester 2 - Winter 2015\ICS3U (Gr. 11 Computer Programming)\Soroka, Alyssa (202948)\Introduction\1. HelloWorld (Alyssa Soroka)\1. HelloWorld (Alyssa Soroka)\obj\x86\Debug\1. HelloWorld (Alyssa Soroka).exe
 K:\Semester 2 - Winter 2015\ICS3U (Gr. 11 Computer Programming)\Soroka, Alyssa (202948)\Introduction\1. HelloWorld (Alyssa Soroka)\1. HelloWorld (Alyssa Soroka)\obj\x86\Debug\1. HelloWorld (Alyssa Soroka).pdb
+C:\Users\s288990\Desktop\GitHub\HelloWorld\1. HelloWorld (Alyssa Soroka)\1. HelloWorld (Alyssa Soroka)\obj\x86\Debug\1. HelloWorld (Alyssa Soroka).exe
+C:\Users\s288990\Desktop\GitHub\HelloWorld\1. HelloWorld (Alyssa Soroka)\1. HelloWorld (Alyssa Soroka)\obj\x86\Debug\1. HelloWorld (Alyssa Soroka).pdb
+C:\Users\s288990\Desktop\GitHub\HelloWorld\1. HelloWorld (Alyssa Soroka)\1. HelloWorld (Alyssa Soroka)\bin\Debug\1. HelloWorld (Alyssa Soroka).exe
+C:\Users\s288990\Desktop\GitHub\HelloWorld\1. HelloWorld (Alyssa Soroka)\1. HelloWorld (Alyssa Soroka)\bin\Debug\1. HelloWorld (Alyssa Soroka).pdb
+C:\Users\s288990\Desktop\GitHub\HelloWorld\1. HelloWorld (Alyssa Soroka)\1. HelloWorld (Alyssa Soroka)\obj\x86\Debug\HelloWorld.frmHelloWorld.resources
+C:\Users\s288990\Desktop\GitHub\HelloWorld\1. HelloWorld (Alyssa Soroka)\1. HelloWorld (Alyssa Soroka)\obj\x86\Debug\HelloWorld.Properties.Resources.resources
+C:\Users\s288990\Desktop\GitHub\HelloWorld\1. HelloWorld (Alyssa Soroka)\1. HelloWorld (Alyssa Soroka)\obj\x86\Debug\1. HelloWorld (Alyssa Soroka).csproj.GenerateResource.Cache

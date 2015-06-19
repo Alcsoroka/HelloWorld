@@ -30,6 +30,7 @@
         {
             this.lblHelloWorld = new System.Windows.Forms.Label();
             this.lblAuthor = new System.Windows.Forms.Label();
+            this.label1 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // lblHelloWorld
@@ -52,15 +53,27 @@
             this.lblAuthor.TabIndex = 1;
             this.lblAuthor.Text = "By: Alyssa Soroka";
             // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(95, 192);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(86, 13);
+            this.label1.TabIndex = 2;
+            this.label1.Text = "I WAS HERE!!!!!";
+            this.label1.Click += new System.EventHandler(this.label1_Click);
+            // 
             // frmHelloWorld
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(284, 262);
+            this.Controls.Add(this.label1);
             this.Controls.Add(this.lblAuthor);
             this.Controls.Add(this.lblHelloWorld);
             this.Name = "frmHelloWorld";
             this.Text = "Hello World! By Alyssa Soroka";
+            this.Load += new System.EventHandler(this.frmHelloWorld_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -70,6 +83,7 @@
 
         private System.Windows.Forms.Label lblHelloWorld;
         private System.Windows.Forms.Label lblAuthor;
+        private System.Windows.Forms.Label label1;
     }
 }
 
